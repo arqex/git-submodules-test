@@ -1,0 +1,3 @@
+[submodule "backbone-resolve"]
+	path = backbone-resolve
+	url = https://github.com/arqex/backbone-resolve.git
